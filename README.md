@@ -1,10 +1,9 @@
 ## Ei, Time Plataformas de Telecom
 
-<br/>
 <div>
   <a href="https://github.com/VeroTeamOss">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VeroTeamOss&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
   </a>
 </div> 
 
