@@ -17,14 +17,6 @@
 
 ##
 
-## 🤝 Colaboradores
-  - Guilherme Domingues (Cheff de todos)
-  - Felipe Neves (Fast and Good)
-  - Edgar Silva (Severino)
-  - Gabriel Santos (Wft?! Não gosta de chimarrão)  
-
-##
-
 ## :computer: Sistemas
 - Radius
 - DNS
