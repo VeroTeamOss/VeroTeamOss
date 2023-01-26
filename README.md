@@ -29,7 +29,7 @@
 ##### Setar usuário
 	git config --global user.name "SERVER NAME"
 ##### Setar email
-	git config --global user.email gdomingues@verointernet.com.br
+	git config --global user.email "SEU EMAIL"
 ##### Listar configurações
 	git config --list	
 ##### Clonar um repositório remoto já existente
