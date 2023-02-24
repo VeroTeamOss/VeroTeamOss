@@ -25,6 +25,8 @@
 - Zabbix
 - SmartWifi
 
+## :memo: Criar chave SSH
+	ssh-keygen -t ecdsa -b 521 -C "email"
 ## :memo: Comandos Básicos Git
 ##### Setar usuário
 	git config --global user.name "SERVER NAME"
